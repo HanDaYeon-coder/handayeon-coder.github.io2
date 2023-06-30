@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: 다나의 개발 일지
 ---
 
